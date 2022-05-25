@@ -337,7 +337,6 @@
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/Create_Board.cs"
-"Assets/Scripts/Create_Board2.cs"
 "Assets/WheelController.cs"
 -langversion:9.0
 
